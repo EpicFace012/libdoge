@@ -1,12 +1,12 @@
-libdoge
+libloser
 =======
 
-wow such good doge. doge will come to your pages and say content aware things lol.
+wow such good loser. doge will come to your pages and say content aware things lol.
 
 ![wow screenshot](https://raw.github.com/ljalonen/libdoge/master/screenshots/libdoge.gif)
 
 ## Tipping
-So can tip **dogecoin**: DFU8ydPgDL6yzjDVFHdY3B333mEq61EJz3
+tip the orginal coder -- **dogecoin**: DFU8ydPgDL6yzjDVFHdY3B333mEq61EJz3
 
 ## Usage
 There is two ways to use this library. Either as Chrome extension (recommended) or bookmarklet. You can even use this library at your very own web page.
@@ -32,7 +32,7 @@ OR
 * Set following text to URL
 
 ```javascript
-javascript:void ((function(){var b=document.createElement("script");b.setAttribute("src","https://raw.github.com/ljalonen/libdoge/master/libdoge/bookmarklet-min.js");document.body.appendChild(b)})());
+javascript:void ((function(){var b=document.createElement("script");b.setAttribute("src","https://raw.githubusercontent.com/EpicFace012/libloser/master/libdoge/bookmarklet-min.js");document.body.appendChild(b)})());
 ```
 
 * Add to bookmarks toolbar
